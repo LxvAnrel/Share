@@ -1,7 +1,7 @@
 #include <cs50.h>
 #include <math.h>
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> //não está sendo utilizado neste código
 
 // Variáveis globais
 int count = 0;
